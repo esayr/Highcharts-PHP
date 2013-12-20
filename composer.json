@@ -1,7 +1,7 @@
 {
-    "name": "lsv/Highchart-PHP",
+    "name": "esayr/Highchart-PHP",
     "description": "Highchart PHP Api",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Martin Aarhof",
